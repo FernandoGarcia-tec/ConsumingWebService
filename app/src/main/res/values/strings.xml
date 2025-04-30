@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConsumingWebService</string>
+    <string name="lblBoton">Consumir boton</string>
+</resources>
